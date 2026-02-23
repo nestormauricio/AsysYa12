@@ -1,0 +1,27 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.nupkg
+publish/
+
+# Environment
+.env
+!.env.example
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Test results
+TestResults/
+coverage/
+*.trx
+*.xml
+
+# OS
+.DS_Store
+Thumbs.db
